@@ -14,6 +14,6 @@
 
 
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=pinaronall&show_icons=true&locale=en" alt="pinaronall" /></p><
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=pinaronall&show_icons=true&locale=en" alt="pinaronall" /></p>
 
-p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinaronall&" alt="pinaronall" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinaronall&" alt="pinaronall" /></p>
