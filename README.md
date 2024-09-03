@@ -1,9 +1,9 @@
- [![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/301015577/original/585354e87cef12dcb5c34b2d0094684951fdfcd4/be-your-frontend-react-js-developer-using-html-css-bootstrap.png)
+ ![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/301015577/original/585354e87cef12dcb5c34b2d0094684951fdfcd4/be-your-frontend-react-js-developer-using-html-css-bootstrap.png)
 
 <h1 align="center">Merhaba 👋, ben Pınar ÖNAL</h1>
 <h3 align="center">Türkiye'den tutkulu bir frontend geliştirici</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 
 
 <h3 align="left">Diller ve Araçlar:</h3>
